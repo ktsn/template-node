@@ -35,7 +35,7 @@
   "devDependencies": {
     "eslint": "^5.2.0",
     "eslint-config-ktsn": "^2.0.1",
-    "jest": "^23.4.1",
+    "jest": "^24.9.0",
     "prettier": "1.13.7",
     "prettier-config-ktsn": "^1.0.0"
   }
