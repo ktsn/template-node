@@ -33,7 +33,7 @@
     "prepublishOnly": "npm run lint && npm run test"
   },
   "devDependencies": {
-    "eslint": "^5.2.0",
+    "eslint": "^6.3.0",
     "eslint-config-ktsn": "^2.0.1",
     "jest": "^24.9.0",
     "prettier": "1.13.7",
